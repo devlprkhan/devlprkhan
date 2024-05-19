@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Mobile Engineer with expertise in React Native, JavaScript, Swift, Node.js, Express.js, Python, AI, and Machine Learning. Over the years, I've honed my skills in crafting exceptional mobile applications for Android and iOS platforms and building robust backend systems.
 
-![Haseeb's Stats](https://github-readme-stats.vercel.app/api?username=devlprkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Haseeb's Stats](https://github-readme-stats.vercel.app/api?username=devlprkhan&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ## 🚀 About Me
 
