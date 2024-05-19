@@ -29,7 +29,7 @@ I'm dedicated to creating seamless and feature-rich mobile applications using Re
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,swift,python,graphql,postgresql,mongodb,redis,docker,kubernetes,firebase,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,swift,python,graphql,mongodb,postgresql,cassandra,mysql,sqlite,redis,kafka,nginx,docker,kubernetes,firebase,aws,gcp,figma,tensorflow,pytorch,scikitlearn)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
