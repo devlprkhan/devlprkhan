@@ -2,8 +2,7 @@
 
 I build products, not just code. I’m a **Full-Stack Product Engineer** focused on creating high-performance web and mobile apps from scratch. I handle everything end-to-end, from the first UI sketch to the final backend deployment.
 
-![Haseeb's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=devlprkhan&show_icons=true&theme=dark&border_radius=10)
-
+![Haseeb's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=devlprkhan&show_icons=true&theme=dark&border_radius=10&count_private=true&include_all_commits=true&hide=issues,contribs,prs)
 ## 🚀 What I Do
 
 I’m into the whole process of building a product. I don't like just sticking to one small part; I’d rather handle the entire thing from a rough idea to a finished app. Lately, I've been focusing on:
