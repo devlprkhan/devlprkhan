@@ -6,32 +6,30 @@ I build products, not just code. I’m a **Full-Stack Product Engineer** focused
 
 ## 🚀 What I Do
 
-I love turning ideas into products people actually use. My approach combines clean code with a deep obsession for UX and real-world impact. Currently, I’m spending a lot of time:
+I’m into the whole process of building a product. I don't like just sticking to one small part; I’d rather handle the entire thing from a rough idea to a finished app. Lately, I've been focusing on:
 
-* **Building Native-First:** Crafting fluid mobile experiences using **React Native**.
-* **Full-Stack Thinking:** Scaling apps with **Node.js, TypeScript, and pnpm monorepos**.
-* **Making Apps Smarter:** Integrating **AI tools** to solve complex problems and make software more intuitive.
+* **Building from scratch:** I create web and mobile apps end-to-end, making sure the UI feels right and the backend is solid.
+* **Focusing on the user:** I care a lot about UX. For me, it’s not just about making code work—it's about making sure people actually enjoy using the app.
+* **Adding AI:** I'm using AI to make apps feel a bit smarter and more helpful, rather than just building basic forms and buttons.
 
-## 🛠️ My Favorite Tools
+## 🛠️ Tech Stack
 
-I keep my stack focused so I can move fast and build things that last:
+I like to keep things simple and move fast. Here’s what I’m usually working with:
 
-* **Mobile/Frontend:** React Native, React, TypeScript, Tailwind, shadcn/ui.
-* **Backend & AI:** Node.js, Python, AI Service integration.
-* **Infrastructure:** PostgreSQL, Redis, Docker, and Cloud services.
+* **Frontend & Mobile:** React Native, React, TypeScript, Tailwind, shadcn/ui.
+* **Backend & Data:** Node.js, Python, PostgreSQL, Redis, Kafka.
+* **DevOps & Infrastructure:** Docker, Kubernetes, and Cloud services.
+* **AI Engineering:** AI Service integration, Prompt Engineering, and Vector Databases.
 
 ## 🌱 Currently Exploring
 
-I’m always learning, but right now I’m focused on:
-* Optimizing mobile performance and JavaScript execution.
-* Advanced AI-powered workflows.
-* Designing more efficient, modular systems.
+I'm currently bridging the gap between engineering and research. I'm deep-diving into the **Data Science and AI Engineering** path—learning how to build more intelligent systems, work with datasets, and move toward **Applied Science** roles.
 
 ## 📬 Let's Connect
 
 I'm always down to talk shop about product design, mobile dev, or the latest in AI.
 
 * 📧 **Email:** [devlpr.khan@gmail.com](mailto:devlpr.khan@gmail.com)
-* 💼 **LinkedIn:** [Insert Your LinkedIn Link Here](https://www.linkedin.com/in/thehaseebkhan/)
+* 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/thehaseebkhan/)
 
 Peace and innovation! ✌️
