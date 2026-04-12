@@ -1,55 +1,37 @@
 # Hi, I'm Haseeb Khan! 👋
 
-I'm a passionate Full Stack Mobile Engineer with expertise in React Native, JavaScript, Swift, Node.js, Express.js, Python, AI, and Machine Learning. Over the years, I've honed my skills in crafting exceptional mobile applications for Android and iOS platforms and building robust backend systems.
+I build products, not just code. I’m a **Full-Stack Product Engineer** focused on creating high-performance web and mobile apps from scratch. I handle everything end-to-end, from the first UI sketch to the final backend deployment.
 
 ![Haseeb's Stats](https://github-readme-stats.vercel.app/api?username=devlprkhan&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I'm dedicated to creating seamless and feature-rich mobile applications using React Native and Swift. My recent focus has been on integrating AI and Machine Learning to build innovative solutions that address real-world problems.
+I love turning ideas into products people actually use. My approach combines clean code with a deep obsession for UX and real-world impact. Currently, I’m spending a lot of time:
 
-## 🛠️ My Expertise
+* **Building Native-First:** Crafting fluid mobile experiences using **React Native**.
+* **Full-Stack Thinking:** Scaling apps with **Node.js, TypeScript, and pnpm monorepos**.
+* **Making Apps Smarter:** Integrating **AI tools** to solve complex problems and make software more intuitive.
 
-- **Mobile Development:** 
-  - React Native for cross-platform apps.
-  - Swift for robust iOS applications.
-- **Backend Development:** 
-  - Node.js and Express.js for scalable server-side applications.
-  - PostgreSQL and MongoDB for efficient database management.
-  - GraphQL and REST for flexible API interactions.
-  - Redis for caching and real-time data processing.
-  - Docker and Kubernetes for containerization and orchestration.
-  - Firebase, Supabase, AWS Amplify, and Google Cloud for serverless architectures.
-- **AI and Machine Learning:** 
-  - Developing intelligent applications that leverage AI and ML technologies.
-- **Data Structures and Algorithms (DSA):**
-  - Proficient in solving complex problems using various data structures and algorithms.
-- **System Design:**
-  - Skilled in designing scalable and efficient systems.
+## 🛠️ My Favorite Tools
 
-## ⚙️ Tech Stack
+I keep my stack focused so I can move fast and build things that last:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,nodejs,swift,python,graphql,mongodb,postgresql,cassandra,mysql,sqlite,redis,kafka,nginx,cloudflare,docker,kubernetes,firebase,aws,gcp,azure,ai,tensorflow,scikitlearn,anaconda,git,figma,androidstudio,postman)](https://skillicons.dev)
+* **Mobile/Frontend:** React Native, React, TypeScript, Tailwind, shadcn/ui.
+* **Backend & AI:** Node.js, Python, AI Service integration.
+* **Infrastructure:** PostgreSQL, Redis, Docker, and Cloud services.
 
 ## 🌱 Currently Exploring
 
-- Advanced techniques in AI and Machine Learning.
-- Enhancing mobile app performance and user experience.
-- Exploring new serverless solutions and cloud services.
-- Improving skills in data structures, algorithms, and system design.
+I’m always learning, but right now I’m focused on:
+* Optimizing mobile performance and JavaScript execution.
+* Advanced AI-powered workflows.
+* Designing more efficient, modular systems.
 
-## 🏆 Achievements
+## 📬 Let's Connect
 
-- Successfully integrated AI and ML in multiple projects to solve complex problems.
-- Continuously improving skills and staying updated with the latest technologies.
-- Recognized for creating high-performance and user-friendly mobile applications.
+I'm always down to talk shop about product design, mobile dev, or the latest in AI.
 
-## 📬 Get in Touch
-
-Feel free to connect with me to discuss potential collaborations or inquiries:
-- 📧 Email: [devlpr.khan@gmail.com](mailto:devlpr.khan@gmail.com)
-- 📞 Phone: +92 309 8288079
-
-I'm always eager to explore new opportunities, share insights, and connect with fellow professionals in the realm of mobile app development and emerging technologies.
+* 📧 **Email:** [devlpr.khan@gmail.com](mailto:devlpr.khan@gmail.com)
+* 💼 **LinkedIn:** [Insert Your LinkedIn Link Here](https://www.linkedin.com/in/thehaseebkhan/)
 
 Peace and innovation! ✌️
