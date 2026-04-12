@@ -2,7 +2,7 @@
 
 I build products, not just code. I’m a **Full-Stack Product Engineer** focused on creating high-performance web and mobile apps from scratch. I handle everything end-to-end, from the first UI sketch to the final backend deployment.
 
-![Haseeb's Stats](https://github-readme-stats.vercel.app/api?username=devlprkhan&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Haseeb's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=devlprkhan&show_icons=true&theme=dark&border_radius=10)
 
 ## 🚀 What I Do
 
