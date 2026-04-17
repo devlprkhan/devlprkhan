@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-url">
-    <img src="banner.png" alt="Haseeb Khan Banner" width="100%">
-  </a>
+  <img src="LinkedIn Cover.png" alt="Haseeb Khan Banner" width="100%">
 </p>
 
 # Hi, I'm Haseeb Khan! 👋
