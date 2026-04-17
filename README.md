@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile-url">
+    <img src="banner.png" alt="Haseeb Khan Banner" width="100%">
+  </a>
+</p>
+
 # Hi, I'm Haseeb Khan! 👋
 
 I build products, not just code. I’m a **Full-Stack Product Engineer** focused on creating high-performance web and mobile apps from scratch. I handle everything end-to-end, from the first UI sketch to the final backend deployment.
