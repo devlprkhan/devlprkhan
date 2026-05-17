@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LinkedIn Cover.webp" alt="Haseeb Khan Banner" width="100%">
+  <img src="LinkedIn Cover V2.webp" alt="Haseeb Khan Banner" width="100%">
 </p>
 
 # Hi, I'm Haseeb Khan! 👋
