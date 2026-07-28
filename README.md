@@ -20,7 +20,7 @@ I build production-ready AI solutions that turn data into intelligent products. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -38,13 +38,13 @@ I build production-ready AI solutions that turn data into intelligent products. 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Haseeb's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=devlprkhan\&show_icons=true\&theme=dark\&border_radius=10\&count_private=true\&include_all_commits=true\&hide=issues,contribs,prs)
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 Building expertise in **Data Science**, **Machine Learning**, **Deep Learning**, and **Applied AI**, while sharing projects and continuous learning along the way.
 
@@ -53,5 +53,5 @@ Building expertise in **Data Science**, **Machine Learning**, **Deep Learning**,
 ## 🤝 Connect
 
 * 💼 **LinkedIn:** https://linkedin.com/in/thehaseebkhan
-* 📧 **Email:** [devlpr.khan@gmail.com](mailto:devlpr.khan@gmail.com)
+* 📧 **Email:** [devlpr.khan@gmail.com](mailto:haseebkhandsml@gmail.com)
 
