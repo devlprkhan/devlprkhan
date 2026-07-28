@@ -50,7 +50,13 @@ Building expertise in **Data Science**, **Machine Learning**, **Deep Learning**,
 
 ---
 
-## 🤝 Connect
+## `> contact.init()`
 
-* 💼 **LinkedIn:** https://linkedin.com/in/thehaseebkhan
-* 📧 **Email:** [haseebkhandsml@gmail.com](mailto:haseebkhandsml@gmail.com)
+```python
+contact = {
+    "github"  : "github.com/devlprkhan",
+    "focus"   : "Data Science • ML Engineering • AI",
+    "status"  : "Open to collaborations & opportunities 🟢",
+}
+
+print("Let's build something cool together!")
