@@ -53,5 +53,4 @@ Building expertise in **Data Science**, **Machine Learning**, **Deep Learning**,
 ## 🤝 Connect
 
 * 💼 **LinkedIn:** https://linkedin.com/in/thehaseebkhan
-* 📧 **Email:** [devlpr.khan@gmail.com](mailto:haseebkhandsml@gmail.com)
-
+* 📧 **Email:** [haseebkhandsml@gmail.com](mailto:haseebkhandsml@gmail.com)
